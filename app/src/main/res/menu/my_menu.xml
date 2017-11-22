@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id = "@+id/maps"
+        android:title="Google Maps"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id = "@+id/searching"
+        android:title="Search View"
+        android:orderInCategory="2"
+        />
+    <item
+        android:id = "@+id/browsing"
+        android:title="Browser"
+        android:orderInCategory="3"
+        />
+    <item
+        android:id = "@+id/searchview"
+        android:title = "Search Food"
+        android:orderInCategory="4"
+        />
+
+
+</menu>
